@@ -4,7 +4,7 @@ A machine learning web app that detects whether a movie review
 is Positive or Negative using NLP and Logistic Regression.
 
 ## 🔗 Live Demo
-👉 Coming soon
+👉 [Click here to try the app](https://sentiment-analysis-app-nd3ejwkfxku3qddgmtytxv.streamlit.app)
 
 ## 📸 Screenshots
 ![Main App](screenshot_main.png)
